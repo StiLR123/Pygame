@@ -1,0 +1,12 @@
+circuit_game/
+│── main.py
+│── game/
+│    ├── __init__.py
+│    ├── levels.py
+│    ├── missions.py
+│    ├── components.py
+│    ├── sounds.py
+│    └── player.py
+│── assets/
+│    ├── images/
+│    └── sounds/
